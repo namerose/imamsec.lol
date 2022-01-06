@@ -1,4 +1,4 @@
-import { SiExpress, SiMongodb, SiPhp, SiNodedotjs } from "react-icons/si";
+import { SiMongodb, SiPhp, SiNodedotjs } from "react-icons/si";
 import BgeBadge from "../atoms/badge/BgeBadge";
 import TxtSkillsBackEnd from "../atoms/text/TxtSkillsBackEnd";
 import { IcoLinesStyle, IcoStyle, LayoutStyle } from "./SkillsStyle";

@@ -1,9 +1,7 @@
 import { AiTwotoneMail } from "react-icons/ai";
 import { BsGithub } from "react-icons/bs";
-import { IoIosCall } from "react-icons/io";
 import styled from "styled-components";
 import BtnHeader from "../atoms/button/BtnHeader";
-import HeaderPopupCall from "../molecules/HeaderPopupCall";
 import HeaderPopupEmail from "../molecules/HeaderPopupEmail";
 import HeaderPopupGithubLink from "../molecules/HeaderPopupGithubLink";
 
