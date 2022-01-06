@@ -10,7 +10,6 @@ import Introduce from "./components/pages/Introduce";
 import Profile from "./components/pages/Profile";
 import Skills from "./components/pages/Skills";
 import Welcome from "./components/pages/Welcome";
-import Works from "./components/pages/Works";
 import TmplFooter from "./components/templates/TmplFooter";
 import TmplHeader from "./components/templates/TmplHeader";
 import { theme } from "./styles/theme";
