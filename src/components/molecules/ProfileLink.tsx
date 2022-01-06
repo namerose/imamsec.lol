@@ -52,7 +52,7 @@ export default function ProfileLink({
           <BgeBadge
             icon={<SiInstagram />}
             text="@Imam_Walks"
-            bgColor="#20c997"
+            bgColor="#FF3659"
             txtColor="white"
             onClick={gotoVelog}
           />
