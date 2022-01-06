@@ -1,4 +1,4 @@
-import { SiReact, SiHtml5, SiNextdotjs, SiStyledcomponents } from "react-icons/si";
+import { SiReact, SiHtml5, SiNextdotjs } from "react-icons/si";
 import BgeBadge from "../atoms/badge/BgeBadge";
 import TxtSkillsFrontEnd from "../atoms/text/TxtSkillsFrontEnd";
 import { IcoLinesStyle, IcoStyle, LayoutStyle } from "./SkillsStyle";
