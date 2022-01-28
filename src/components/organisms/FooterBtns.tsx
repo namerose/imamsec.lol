@@ -43,7 +43,7 @@ export default function FooterBtns({
       <BtnFooter
         nowSlide={nowSlide}
         pageNum={3}
-        text="BAHASA"
+        text="INI APA ?"
         pageChangeWork={pageChangeWork}
         dispatch={dispatch}
       />
