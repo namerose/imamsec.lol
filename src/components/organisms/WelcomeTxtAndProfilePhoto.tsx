@@ -1,6 +1,5 @@
 import styled from "styled-components";
 import { FadeIn } from "../../styles/keyframes/fade";
-import ImgProfileImage from "../atoms/Image/ImgProfileImage";
 import TxtWelcomeMsg from "../atoms/text/TxtWelcomeMsg";
 import WelcomeScrollHint from "../molecules/WelcomeScrollHint";
 
