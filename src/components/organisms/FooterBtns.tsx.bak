@@ -40,6 +40,13 @@ export default function FooterBtns({
         pageChangeWork={pageChangeWork}
         dispatch={dispatch}
       />
+      <BtnFooter
+        nowSlide={nowSlide}
+        pageNum={3}
+        text="INI APA ?"
+        pageChangeWork={pageChangeWork}
+        dispatch={dispatch}
+      />
     </Styles>
   );
 }
