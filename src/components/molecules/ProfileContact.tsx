@@ -1,4 +1,4 @@
-import { IoIosSend } from "react-icons/io";
+import { MdEmail } from "react-icons/md";
 import styled from "styled-components";
 import IcoProfileContact from "../atoms/icon/IcoProfileContact";
 import TxtProfileContact from "../atoms/text/TxtProfileContact";
@@ -43,8 +43,8 @@ export default function ProfileContact() {
   return (
     <LayoutStyle>
       <Styles>
-        <IcoProfileContact icon={<IoIosSend />} />
-        <TxtProfileContact title="Email" text="hello@imamsec.lol" />
+        <IcoProfileContact icon={<MdEmail />} />
+        <TxtProfileContact title="Email" text="syechrulimam@gmail.com" />
       </Styles>
     </LayoutStyle>
   );

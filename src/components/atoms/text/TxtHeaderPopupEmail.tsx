@@ -6,7 +6,7 @@ import {
 export default function TxtHeaderPopupEmail() {
   return (
     <TxtHeaderPopupStyle>
-      hello@imamsec.lol
+      syechrulimam@gmail.com
       <TxtHeaderPopupHintStyle>Klik Untuk Mengsalin.</TxtHeaderPopupHintStyle>
     </TxtHeaderPopupStyle>
   );

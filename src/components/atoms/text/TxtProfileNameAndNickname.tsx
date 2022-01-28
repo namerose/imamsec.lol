@@ -40,7 +40,7 @@ const EngNicknameStyle = styled.div`
 export default function TxtProfileNameAndNickname() {
   return (
     <LayoutStyle>
-      <NameStyle>Imam</NameStyle>
+      <NameStyle>Syechrul Imam</NameStyle>
       <NicknameStyle>a.k.a. Rul</NicknameStyle>
       <EngNicknameStyle>@ImamSec</EngNicknameStyle>
     </LayoutStyle>

@@ -56,7 +56,7 @@ export default function App() {
     call: () => {
     },
     email: () => {
-      headerCopy("hello@imamsec.lol");
+      headerCopy("syechrulimam@gmail.com");
       setViewText("Alamat email telah disalin.");
     },
   };

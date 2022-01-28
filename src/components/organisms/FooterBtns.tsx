@@ -36,7 +36,7 @@ export default function FooterBtns({
       <BtnFooter
         nowSlide={nowSlide}
         pageNum={2}
-        text="INTRODUCE"
+        text="KENALAN"
         pageChangeWork={pageChangeWork}
         dispatch={dispatch}
       />

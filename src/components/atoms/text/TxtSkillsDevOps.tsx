@@ -1,9 +1,9 @@
-import { NormalTextStyle } from "./TxtSkillsStyle";
+import { NormalTextStyle, StrongTextStyle } from "./TxtSkillsStyle";
 
 export default function TxtSkillsDevOps() {
   return (
     <NormalTextStyle>
-      SiPaling&nbsp;ngasi cuan ;)
+      SiPaling&nbsp;<StrongTextStyle>..................</StrongTextStyle>
     </NormalTextStyle>
   );
 }

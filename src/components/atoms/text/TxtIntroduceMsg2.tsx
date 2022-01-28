@@ -16,7 +16,7 @@ const NormalTextStyle = styled.div`
 function TxtIntroduceMsg1() {
   return (
     <div>
-      <NormalTextStyle> Gatu aing pusing bodo lah</NormalTextStyle>
+      <NormalTextStyle> Loituma - Ievan Polkka</NormalTextStyle>
     </div>
   );
 }

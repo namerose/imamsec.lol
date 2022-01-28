@@ -24,18 +24,18 @@ export default function ProfileInfo() {
     <Styles>
       <TxtProfileInfo
         title="Pendidikan"
-        text="Universitas Amikom Yogyakarta"
-        term="2020. 09 ~ Sekarang"
-      />
-      <TxtProfileInfo
-        title="Pekerjaan"
-        text="Gaada sih, paling jualan kopi doang :)"
-        term="2018 ~ Sekarang"
+        text="Universitas Amikom Yogyakarta."
+        term="2020. 08 ~ Sekarang"
       />
       <TxtProfileInfo
         title="Hobi"
-        text="Gapernah Pacaran"
-        term="2001. 03 ~ Sekarang"
+        text="Singer, tapi ga suka nyanyi ataupun jadi Singer."
+        term=""
+      />
+      <TxtProfileInfo
+        title="Pekerjaan"
+        text="Paling, Jualan Kopi Pabrikan Sendiri."
+        term=""
       />
     </Styles>
   );

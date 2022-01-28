@@ -31,7 +31,6 @@ export default function WelcomeTxtAndProfilePhoto({
 }) {
   return (
     <Styles>
-      <ImgProfileImage />
       <TxtWelcomeMsg />
       <WelcomeScrollHint mQuery={mQuery} />
     </Styles>

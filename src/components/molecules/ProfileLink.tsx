@@ -1,4 +1,4 @@
-import { SiGithub, SiInstagram, SiFacebook } from "react-icons/si";
+import { SiTelegram, SiInstagram, SiFacebook } from "react-icons/si";
 import styled from "styled-components";
 import BgeBadge from "../atoms/badge/BgeBadge";
 import { useSampleState } from "../context/pageContext";
@@ -43,9 +43,9 @@ export default function ProfileLink({
       <MobileLayoutStyle>
         <MobileFloorStyle>
           <BgeBadge
-            icon={<SiGithub />}
+            icon={<SiTelegram />}
             text="ImamSec"
-            bgColor="#404040"
+            bgColor="#87CEEB"
             txtColor="white"
             onClick={gotoGithub}
           />
@@ -72,9 +72,9 @@ export default function ProfileLink({
     return (
       <LayoutStyle>
         <BgeBadge
-          icon={<SiGithub />}
+          icon={<SiTelegram />}
           text="ImamSec"
-          bgColor="#404040"
+          bgColor="#87CEEB"
           txtColor="white"
           onClick={gotoGithub}
         />

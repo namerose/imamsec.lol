@@ -13,37 +13,24 @@ const NormalTextStyle = styled.div`
 `;
 
 const StrongTextStyle = styled.div`
-  font-family: NanumSquareB;
+  font-family: NanumSquareB; 
 `;
 
 function TxtWelcomeMsg() {
   return (
     <NormalTextStyle>
       <Typist
-        sentences={["Dev"]}
+        sentences={["Hallo"]}
         loop={false}
         showCursor={false}
         startDelay={300}
       />
       <br />
-      <Typist
-        sentences={["Paling"]}
-        loop={false}
-        startDelay={800}
-        showCursor={false}
-      />
-      <Typist
-        sentences={["Random"]}
-        loop={false}
-        startDelay={1200}
-        showCursor={false}
-      />
-      <br />
       <StrongTextStyle>
         <Typist
-          sentences={["Imam :)"]}
+          sentences={["Rul :)"]}
           loop={false}
-          startDelay={1600}
+          startDelay={800}
           showCursor={true}
         />
       </StrongTextStyle>
