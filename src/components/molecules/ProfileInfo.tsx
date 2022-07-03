@@ -29,12 +29,17 @@ export default function ProfileInfo() {
       />
       <TxtProfileInfo
         title="Hobi"
-        text="Singer, tapi ga suka nyanyi ataupun jadi Singer."
+        text="Music Writer, Play FPS Game, Mancing"
         term=""
       />
       <TxtProfileInfo
         title="Pekerjaan"
         text="Paling, Jualan Kopi Pabrikan Sendiri."
+        term=""
+      />
+      <TxtProfileInfo
+        title="Current Job"
+        text="CEO (i have multiple company so i won't let you know)"
         term=""
       />
     </Styles>
