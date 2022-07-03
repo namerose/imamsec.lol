@@ -5,7 +5,7 @@ type Image = {
 
 export default function ImgProfileImage() {
   const image: Image = {
-    src: "https://cdn.discordapp.com/attachments/936730224303939647/936734549658980362/VCBFmMX1.png",
+    src: "https://cdn.discordapp.com/attachments/993067467914096663/993067797141790780/W7stl0Bq_a-removebg-preview.png",
     alt: "Profile picture",
   };
 
