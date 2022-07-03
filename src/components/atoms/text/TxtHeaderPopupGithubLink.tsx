@@ -6,7 +6,7 @@ import {
 export default function TxtHeaderPopupGithubLink() {
   return (
     <TxtHeaderPopupStyle>
-      Github @imamsec
+      Github @namerose
       <TxtHeaderPopupHintStyle>klik aja.</TxtHeaderPopupHintStyle>
     </TxtHeaderPopupStyle>
   );
