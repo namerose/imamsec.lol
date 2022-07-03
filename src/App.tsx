@@ -50,7 +50,7 @@ export default function App() {
 
   const headerClick: HeaderClick = {
     githubLink: () => {
-      headerGoWebSite("https://github.com/imamsec");
+      headerGoWebSite("https://github.com/namerose");
     },
     call: () => {
     },
