@@ -37,11 +37,6 @@ export default function ProfileInfo() {
         text="Paling, Jualan Kopi Pabrikan Sendiri."
         term=""
       />
-      <TxtProfileInfo
-        title="Current Job"
-        text="CEO (i have multiple company so i won't let you know)"
-        term=""
-      />
     </Styles>
   );
 }
