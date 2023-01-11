@@ -3,7 +3,7 @@ import PageStyle from "./PageStyle";
 
 export default function Profile() {
   const githubUrl = "https://t.me/imamsec";
-  const velogUrl = "https://instagram.com/imam_walks";
+  const velogUrl = "https://instagram.com/imamsec_";
   const rocketPunchUrl = "https://www.facebook.com/imam.walks/";
 
   const gotoSite: (url: string) => void = (url: string) => {
