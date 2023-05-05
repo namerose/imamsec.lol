@@ -1,4 +1,4 @@
-import { SiTelegram, SiInstagram, SiFacebook } from "react-icons/si";
+import { SiTwitter, SiInstagram, SiFacebook } from "react-icons/si";
 import styled from "styled-components";
 import BgeBadge from "../atoms/badge/BgeBadge";
 import { useSampleState } from "../context/pageContext";
@@ -72,7 +72,7 @@ export default function ProfileLink({
     return (
       <LayoutStyle>
         <BgeBadge
-          icon={<SiTelegram />}
+          icon={<SiTwitter />}
           text="ImamSec"
           bgColor="#87CEEB"
           txtColor="white"
