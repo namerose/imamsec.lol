@@ -43,7 +43,7 @@ export default function ProfileLink({
       <MobileLayoutStyle>
         <MobileFloorStyle>
           <BgeBadge
-            icon={<SiTelegram />}
+            icon={<SiTwitter />}
             text="ImamSec"
             bgColor="#87CEEB"
             txtColor="white"
